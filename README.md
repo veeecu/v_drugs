@@ -1,6 +1,6 @@
-# Vesx_drugs
+# v_drugs
 
-Najzwyklejszy esx_drugs tylko że z 10 rodzajami narko:
+Zwykły esx_drugs tylko że z 10 rodzajami narko:
 
 -Kokaina
 -Meta
